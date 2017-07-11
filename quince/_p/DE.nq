@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/datadocktestorg/local-dev/id/dataset/normal.csv> <http://purl.org/dc/terms/modified> "2017-07-11"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/datadocktestorg/local-dev/id/dataset/normal.csv/metadata>.
+<http://datadock.io/datadocktestorg/local-dev/id/dataset/org_upload_small.csv> <http://purl.org/dc/terms/modified> "2017-07-11"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_upload_small.csv/metadata>.
