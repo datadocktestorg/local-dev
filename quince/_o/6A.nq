@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/datadocktestorg/local-dev/> <http://purl.org/dc/terms/publisher> <http://datadock.io/datadocktestorg/local-dev/id/dataset/publisher> <http://datadock.io/datadocktestorg/local-dev/metadata>.
 <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file1.csv> <http://purl.org/dc/terms/publisher> <http://datadock.io/datadocktestorg/local-dev/id/dataset/publisher> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file1.csv/metadata>.
-<http://datadock.io/datadocktestorg/local-dev/id/dataset/org_upload_small.csv> <http://purl.org/dc/terms/publisher> <http://datadock.io/datadocktestorg/local-dev/id/dataset/publisher> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_upload_small.csv/metadata>.

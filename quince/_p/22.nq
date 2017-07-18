@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/datadocktestorg/local-dev/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/datadocktestorg/local-dev/metadata>.
 <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file1.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file1.csv/metadata>.
-<http://datadock.io/datadocktestorg/local-dev/id/dataset/org_upload_small.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_upload_small.csv/metadata>.
