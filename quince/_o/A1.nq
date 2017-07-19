@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file1.csv> <http://www.w3.org/ns/dcat#keyword> "file1"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file1.csv/metadata>.
+<http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file2.csv> <http://www.w3.org/ns/dcat#keyword> "file1"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file2.csv/metadata>.

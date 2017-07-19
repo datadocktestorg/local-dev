@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file2.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/datadocktestorg/local-dev/releases/download/org_repo1_file2_csv_20170719_152938/org_repo1_file2_csv_20170719_152938.nt.gz> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file2.csv/metadata>.
+<http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file2.csv> <http://www.w3.org/ns/dcat#keyword> "test"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/local-dev/id/dataset/org_repo1_file2.csv/metadata>.
